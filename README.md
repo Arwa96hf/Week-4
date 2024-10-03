@@ -7,6 +7,10 @@ touch gene_finder.py
 nano gene_finder.py
 
 ```python
+"""
+ChatGPT prompt:
+---
+"""
 from argparse import ArgumentParser
 from Bio import SeqIO
 
