@@ -1,0 +1,1 @@
+Usage: python orf_finder.py <input_fasta> <min_length> <output_file>
